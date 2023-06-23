@@ -17,10 +17,9 @@
     "graphql-request": "^3.5.0",
     "html-react-parser": "^1.4.0",
     "moment": "^2.29.1",
-    "next": "^13.4.7",
-    "package.json": "^0.0.0",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-multi-carousel": "^2.6.5",
     "sass": "^1.42.1",
     "swr": "^1.0.1"
@@ -32,7 +31,7 @@
     "eslint-config-next": "11.1.2",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.25.3",
+    "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
     "postcss": "^8.3.8",
     "tailwindcss": "^2.2.7"
