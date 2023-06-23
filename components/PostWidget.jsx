@@ -30,7 +30,7 @@ const PostWidget = ({ categories, slug }) => {
             <Image
               loader={grpahCMSImageLoader}
               alt={post.title}
-              height= "60"
+              height="60"
               width="60"
               unoptimized
               className="align-middle rounded-full"
